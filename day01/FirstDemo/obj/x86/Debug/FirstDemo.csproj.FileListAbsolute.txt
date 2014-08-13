@@ -1,0 +1,7 @@
+E:\vs_work\day01\FirstDemo\bin\Debug\FirstDemo.exe
+E:\vs_work\day01\FirstDemo\bin\Debug\FirstDemo.pdb
+E:\vs_work\day01\FirstDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\vs_work\day01\FirstDemo\obj\x86\Debug\FirstDemo.exe
+E:\vs_work\day01\FirstDemo\obj\x86\Debug\FirstDemo.pdb
+E:\git\upload\day01\FirstDemo\obj\x86\Debug\FirstDemo.exe
+E:\git\upload\day01\FirstDemo\obj\x86\Debug\FirstDemo.pdb
