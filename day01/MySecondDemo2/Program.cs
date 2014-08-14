@@ -9,7 +9,7 @@ namespace MySecondDemo2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("你好 世界~~\nHello World!\n");
+            Console.WriteLine("This is my second demo!\n");
             Console.ReadKey();
             Console.WriteLine("我也是HelloWorld!\n");
             Console.ReadKey();

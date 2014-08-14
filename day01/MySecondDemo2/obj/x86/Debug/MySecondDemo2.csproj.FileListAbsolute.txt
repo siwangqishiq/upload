@@ -3,3 +3,7 @@ E:\vs_work\day01\MySecondDemo2\bin\Debug\MySecondDemo2.pdb
 E:\vs_work\day01\MySecondDemo2\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\vs_work\day01\MySecondDemo2\obj\x86\Debug\MySecondDemo2.exe
 E:\vs_work\day01\MySecondDemo2\obj\x86\Debug\MySecondDemo2.pdb
+E:\git\upload\day01\MySecondDemo2\bin\Debug\MySecondDemo2.exe
+E:\git\upload\day01\MySecondDemo2\bin\Debug\MySecondDemo2.pdb
+E:\git\upload\day01\MySecondDemo2\obj\x86\Debug\MySecondDemo2.exe
+E:\git\upload\day01\MySecondDemo2\obj\x86\Debug\MySecondDemo2.pdb

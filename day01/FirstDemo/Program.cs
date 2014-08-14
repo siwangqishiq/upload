@@ -11,7 +11,7 @@ namespace FirstDemo
         {
             Console.WriteLine("你好 世界~~\nHello World!\n");
             Console.ReadKey();
-            Console.WriteLine("我也是HelloWorld!\n");
+            Console.WriteLine("This is my first demo1");
             Console.ReadKey();
         }//end Main
     }//end class
